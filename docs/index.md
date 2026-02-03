@@ -13,7 +13,7 @@ This page provides a presentation on an **Introduction to Dataverse for Sharing 
 **Presentation Description:**
 
 *December 1, 2020, 2:00pm, presented by Dylanne Dearborn and Misia Robins*  
-**Please note that Dataverse is now *****Borealis, the Canadian Dataverse Repository*.** 
+**Please note that Dataverse is now ***Borealis, the Canadian Dataverse Repository.*** 
 [Dataverse](https://borealisdata.ca/dataverse/toronto) is a repository for research data. This webinar will provide an introduction to Dataverse and provide participants with an overview of how to log on to Dataverse, add a dataset, restrict access to files, and give collaborators permission to edit datasets.
 
 [Link to Recording - 33:42](https://play.library.utoronto.ca/0a869843ad5989c5f09b7ddccb638ab2)
